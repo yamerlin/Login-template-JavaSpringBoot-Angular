@@ -81,3 +81,38 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+## Meme chose mais pour les fichiers et dossiers qui ne sont pas à la racine :
+
+#Compiled output
+
+*/dist
+*/tmp
+*/out-tsc
+*/bazel-out
+
+#Node
+
+*/node_modules
+*/npm-debug.log
+*/yarn-error.log
+
+#IDE and editors
+
+*/.idea/
+*/.project
+*/.classpath
+*/.c9/
+*/.launch
+*/.settings/
+*/.sublime-workspace
+*/.vscode/
+*/.vscode/*
+*/.vscode/settings.json
+*/.vscode/tasks.json
+*/.vscode/launch.json
+*/.vscode/extensions.json
+*/.history/*
+*/.angular/cache
+*/.sass-cache/
+*/.angular
