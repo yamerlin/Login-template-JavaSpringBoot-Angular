@@ -86,33 +86,33 @@ Thumbs.db
 
 #Compiled output
 
-*/dist
-*/tmp
-*/out-tsc
-*/bazel-out
+**/dist
+**/tmp
+**/out-tsc
+**/bazel-out
 
 #Node
 
-*/node_modules
-*/npm-debug.log
-*/yarn-error.log
+**/node_modules
+**/npm-debug.log
+**/yarn-error.log
 
 #IDE and editors
 
-*/.idea/
-*/.project
-*/.classpath
-*/.c9/
-*/.launch
-*/.settings/
-*/.sublime-workspace
-*/.vscode/
-*/.vscode/*
-*/.vscode/settings.json
-*/.vscode/tasks.json
-*/.vscode/launch.json
-*/.vscode/extensions.json
-*/.history/*
-*/.angular/cache
-*/.sass-cache/
-*/.angular
+**/.idea/
+**/.project
+**/.classpath
+**/.c9/
+**/.launch
+**/.settings/
+**/.sublime-workspace
+**/.vscode/
+**/.vscode/*
+**/.vscode/settings.json
+**/.vscode/tasks.json
+**/.vscode/launch.json
+**/.vscode/extensions.json
+**/.history/*
+**/.angular/cache
+**/.sass-cache/
+**/.angular
